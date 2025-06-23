@@ -40,17 +40,27 @@ Pruebas:
 
 ✅POST: http://127.0.0.1:5000/registro
 
+Registro exitoso:
+
 ![Registro exitoso](capturas/registroExitoso.png)
+
+Intento de registrar usuario existente:
 
 ![Registro usuario existente](capturas/usuarioExiste.png)
 
 ✅POST: http://127.0.0.1:5000/login
 
+Login Exitoso:
+
 ![Login Exitoso](capturas/loginExitoso.png)
+
+Login fallido:
 
 ![Login fallido](capturas/credencialesIncorrectas.png)
 
 ✅GET: http://127.0.0.1:5000/tareas
+
+Página de tareas:
 
 ![Tareas bienvenida](capturas/pantallaTareas.png)
 
