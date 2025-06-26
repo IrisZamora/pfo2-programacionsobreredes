@@ -1,4 +1,6 @@
 # PFO 2: Sistema de Gestión de Tareas con API y Base de Datos
+# Materia: Programación Sobre Redes.
+ Iris Zamora - Comisión "A"
 
 Github page: [https://iriszamora.github.io/pfo2-programacionsobreredes/](https://iriszamora.github.io/pfo2-programacionsobreredes/)
 
