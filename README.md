@@ -1,12 +1,13 @@
 # PFO 2: Sistema de Gestión de Tareas con API y Base de Datos
 
-Github page: https://iriszamora.github.io/pfo2-programacionsobreredes/
+Github page: (https://iriszamora.github.io/pfo2-programacionsobreredes/)
 
 ## Instrucciones para ejecutar el proyecto
 
 1. Clonar el repositorio:
 
-git clone https://github.com/IrisZamora/pfo2-programacionsobreredes.git
+git clone (https://github.com/IrisZamora/pfo2-programacionsobreredes.git)
+
 cd pfo2-programacionsobreredes
 
 2. Crear entorno virtual:
@@ -51,7 +52,7 @@ Endpoints disponibles:
 - GET /tareas: Página de bienvenida a tareas.
 
 
--Pruebas con Postman:
+- Pruebas con Postman:
 
 ✅POST: http://127.0.0.1:5000/registro
 
