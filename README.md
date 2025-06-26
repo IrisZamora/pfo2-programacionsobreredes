@@ -51,7 +51,7 @@ Endpoints disponibles:
 - GET /tareas: Página de bienvenida a tareas.
 
 
-- Pruebas con Postman:
+### Pruebas con Postman:
 
 ✅POST: http://127.0.0.1:5000/registro
 
@@ -79,7 +79,7 @@ Página de tareas:
 
 ![Tareas bienvenida](capturas/postman/pantallaTareas.png)
 
-- Pruebas utilizando Cliente por consola:
+### Pruebas utilizando Cliente por consola:
 
 Registro exitoso:
 
