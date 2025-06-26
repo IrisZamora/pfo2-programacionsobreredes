@@ -1,6 +1,7 @@
 # PFO 2: Sistema de Gestión de Tareas con API y Base de Datos
-# Materia: Programación Sobre Redes.
- Iris Zamora - Comisión "A"
+ # Materia: Programación Sobre Redes.
+  - Profesor: Germán Ríos.
+  - Alumna: Iris Zamora - Comisión "A"
 
 Github page: [https://iriszamora.github.io/pfo2-programacionsobreredes/](https://iriszamora.github.io/pfo2-programacionsobreredes/)
 
@@ -30,20 +31,16 @@ python servidor.py
 
 El servidor se ejecutará en: http://127.0.0.1:5000
 
-6.Cliente por consola para interactuar con la API
+6. Cliente por consola para interactuar con la API
 
-- Instalar dependecia:
+Instalar dependecia: pip install requests
 
-pip install requests
-
--Ejecutar: 
-
-Primero tener corriendo el servidor y en otra terminal ejecutá: python cliente.py
+Ejecutar: Primero tener corriendo el servidor y en otra terminal ejecutá: python cliente.py
 
 Aparecerá un menú, ingresá la opción que desees y seguí las instrucciones por consola.
 
 
-### Endpoints y pruebas
+## Endpoints y pruebas
 
 Endpoints disponibles:
 
@@ -104,7 +101,7 @@ Página de tareas:
 
 ![Tareas bienvenida](capturas/clienteConsola/verTareas.png)
 
-#### Respuestas conceptuales
+## Respuestas conceptuales
 
 - ¿Por qué hashear contraseñas?
 
